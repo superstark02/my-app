@@ -1,24 +1,30 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/my-app/static/js/main.53d11b56.chunk.js",
-    "main.js.map": "/my-app/static/js/main.53d11b56.chunk.js.map",
+    "main.js": "/my-app/static/js/main.5e78d22b.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5e78d22b.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.50fdcddf.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.50fdcddf.js.map",
-    "static/js/2.041f81d1.chunk.js": "/my-app/static/js/2.041f81d1.chunk.js",
-    "static/js/2.041f81d1.chunk.js.map": "/my-app/static/js/2.041f81d1.chunk.js.map",
+    "static/js/2.310d952f.chunk.js": "/my-app/static/js/2.310d952f.chunk.js",
+    "static/js/2.310d952f.chunk.js.map": "/my-app/static/js/2.310d952f.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.3a21cb8f702bb1f1d92411ca9ce44b23.js": "/my-app/precache-manifest.3a21cb8f702bb1f1d92411ca9ce44b23.js",
+    "precache-manifest.c33086be8dac72b42e857e7b8daaa7e5.js": "/my-app/precache-manifest.c33086be8dac72b42e857e7b8daaa7e5.js",
     "service-worker.js": "/my-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/my-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.041f81d1.chunk.js.LICENSE.txt": "/my-app/static/js/2.041f81d1.chunk.js.LICENSE.txt",
+    "static/js/2.310d952f.chunk.js.LICENSE.txt": "/my-app/static/js/2.310d952f.chunk.js.LICENSE.txt",
+    "static/media/catract.png": "/my-app/static/media/catract.37daaa56.png",
+    "static/media/contact.png": "/my-app/static/media/contact.e4f32891.png",
+    "static/media/cornea.png": "/my-app/static/media/cornea.a9d60ae8.png",
+    "static/media/eye_checkup.png": "/my-app/static/media/eye_checkup.9fac3ec0.png",
+    "static/media/glaucoma.png": "/my-app/static/media/glaucoma.b6060cc0.png",
     "static/media/meera_sight.gif": "/my-app/static/media/meera_sight.37a834ad.gif",
-    "static/media/wallpaper_website.webp": "/my-app/static/media/wallpaper_website.30e79416.webp"
+    "static/media/refractive.png": "/my-app/static/media/refractive.c6ea800c.png",
+    "static/media/wallpaper.png": "/my-app/static/media/wallpaper.0b56a990.png"
   },
   "entrypoints": [
     "static/js/runtime-main.50fdcddf.js",
-    "static/js/2.041f81d1.chunk.js",
+    "static/js/2.310d952f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.53d11b56.chunk.js"
+    "static/js/main.5e78d22b.chunk.js"
   ]
 }
